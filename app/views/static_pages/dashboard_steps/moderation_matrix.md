@@ -1,7 +1,14 @@
-### Moderation Matrix
-This matrix correlates with the [Community Rules](https://www.theodinproject.com/community_rules) that are required to be followed in order to participate in the community. Some rules have different levels of severity, so you may see references to them under different numbers of zaps.
+### Community Rules
 
-This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team, and are distributed through Dyno. Zaps accumulate over time if rules continue to be broken.
+Our Discord server is a very active community of people from all over the world and is moderated by a team of volunteers. Our moderation team has 3 different [roles](https://github.com/TheOdinProject/top-meta/blob/main/about/discord-roles.md): Core, Maintainer, and Moderator.
+
+Our moderation team is committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or other similar characteristic.
+
+We expect everyone to handle themselves in a professional manner and follow the spirit of our community rules. The moderation team enforces our rules through a zap system using the Dyno bot. The zaps are private to the user and will be communicated through direct messages or private threads.
+
+If you are given a warning by our moderation team, please consider our point of view and be willing to change without taking it personally or being argumentative. Our rules are very similar to the expectations in professional workplaces, so this will better prepare you to interact professionally with your future teammates.
+
+Our rules have different levels of severity and zaps are given at the discretion of the moderator team. Zaps accumulate over time if rules continue to be broken to ensure the well-being of our entire community.
 
 10 total zaps result in a ban.
 
@@ -65,8 +72,8 @@ Extreme severity violations such as:
   * Self promotion (joining just to promote material, no prior chat history)
   * Repeated random nonsensical messages (copypasta)
 * Doxxing
-* Any other behavior deemed unacceptable and deserving of a ban by the moderation team
 * Piracy
+* Any other behavior deemed unacceptable and deserving of a ban by the moderation team, such as not correcting “[help vampire](https://slash7.com/2006/12/22/vampires/)” behaviors.
 
 #### Decay Example
 
