@@ -11,7 +11,8 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 * Asking about or encouraging the use of Windows
 * "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message)
 * Discussing mental health issues in depth or seeking mental health help from other users
-* Inappropriate usernames and profile pictures (E.g. suggestive or inappropriate memes)
+* Inappropriate User Profile - Profile Picture, Username/Nickname, Bio (E.g. suggestive or inappropriate memes)
+* "Crossposting", aka posting the same message to different channels (asking for help in multiple channels at once)
 
 #### 1 Zap (WARNING)
 
@@ -22,7 +23,7 @@ Minor violations such as:
   * Enforcement of any of the rules instead of notifying moderators (see example below)
   * Please leave moderation action to the moderators
   * Use ModMail to report rule breaking or if you see something you’re unsure about in the community
-* Asking for advice/help on projects unrelated to The Odin Project, or asking about topics unrelated to our Discord channels
+* Asking for advice/help on homework or personal projects, even if the topic is covered by our curriculum
 * Mild unprofessionalism:
   * Drug related conversation
   * Treating others on the server disrespectfully
@@ -42,7 +43,7 @@ Medium severity violations such as:
   * Naming & shaming
 * Self promo without permission (ask with Modmail)
   * Do not share resources you have created solely for personal or monetary gain
-  * Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post)
+  * Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post), job recruitment
 
 #### 5 Zaps (SEVERE WARNING)
 
